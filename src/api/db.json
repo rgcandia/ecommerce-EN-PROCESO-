@@ -1,0 +1,23 @@
+{
+    "items":[
+        {
+            "id":1,
+            "name":"Lebasi Lactoserum",
+            "description":"Lebasi es un Alimento nutritivo natural de origen Suizo obtenido a partir de la elaboración de quesos. Conocido como Lactoserum Suizo, Lebasi es un Alimento funcional terapéutico o nutracéutico, que posee proteínas de mayor calidad, ya que contiene todos los aminoácidos esenciales que nuestro cuerpo requiere.",
+            "image":"https://cdn.shopify.com/s/files/1/0521/2359/9030/products/Lebasi01_1200x1200_crop_center.jpg?v=1638063255",
+            "precio":6000
+            
+        },
+        {
+            "id":2,
+            "name":"Forever Lite Ultra",
+            "description":"Con 17 gramos de proteína y una combinación completa de vitaminas y minerales, Forever Lite Ultra® es la adición perfecta a su manejo de peso y rutina de ejercicios.",
+            "image":"https://www.foreverecom.lat/storage/media/uploaded/product_images/ARG/471/just_ecomm/LITE_ULTRA_CHOCOLATE_ADECUADO_WEB.jpg",
+            "precio":6900
+        },
+        {
+            
+        }
+    ]
+
+}
