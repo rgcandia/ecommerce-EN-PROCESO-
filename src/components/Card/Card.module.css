@@ -8,6 +8,7 @@
     border-radius: 4px;
     width: 240px;
     margin: 10px;
+    font-family: "Times New Roman";
   }
   
   .Card img {
@@ -23,4 +24,11 @@
     text-align: center;
     margin: 0;
     padding: 0;
+  }
+  .Card {
+    transition: transform 0.3s ease-in-out; /* Agrega una transición suave */
+  }
+  
+  .Card:hover {
+    transform: scale(0.9); /* Achica la card al 90% de su tamaño original */
   }

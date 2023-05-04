@@ -1,4 +1,15 @@
 .nav{
     height: 10%;
-    border-bottom: 2px solid black; 
+    border-bottom: 2px solid rgb(0, 0, 0); 
+
+}
+.nav h1 {
+         
+      
+        font-style: italic; /* Aplica el estilo de letra cursiva */
+        font-family: "Times New Roman", Times, serif; /* cambia la fuente por la que desees */
+        font-size: 28px; /* cambia el tamaño por el que desees */
+        color: #333; /* cambia el color por el que desees */
+        text-align: center;
+      
 }
