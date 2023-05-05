@@ -1,6 +1,6 @@
 const  server = require ('./app.js');
 // const server = require('./app.js')
-const PORT = 3001
-server.listen(PORT,()=>{
-    console.log(`Servidor inicializado en puerto ${PORT} `);
+const port = process.env.PORT || 3000
+server.listen(port,()=>{
+    console.log(`Servidor inicializado en puerto ${port} `);
 })
