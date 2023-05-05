@@ -10,10 +10,24 @@
         },
         {
             "id":2,
-            "name":"Forever Lite Ultra",
+            "name":"Forever Lite Ultra®",
             "description":"Con 17 gramos de proteína y una combinación completa de vitaminas y minerales, Forever Lite Ultra® es la adición perfecta a su manejo de peso y rutina de ejercicios.",
             "image":"https://www.foreverecom.lat/storage/media/uploaded/product_images/ARG/471/just_ecomm/LITE_ULTRA_CHOCOLATE_ADECUADO_WEB.jpg",
             "precio":6900
+        },
+        {
+            "id":3,
+            "name":"Forever Lite Ultra®",
+            "description":"Forever Lite Ultra® es una forma deliciosa, versátil y fácil de alimentar su cuerpo con proteínas y nutrientes importantes.",
+            "image":"https://www.foreverecom.lat/storage/media/uploaded/product_images/ARG/470/just_ecomm/LITE_ULTRA_VAINILLA_ADECUADO_WEB.jpg",
+            "precio":7870
+        },
+        {
+            "id":4,
+            "name":"Forever Arctic Sea®",
+            "description":"Nutrición avanzada que pone el poder del mar en la palma de su mano. Forever Arctic Sea® cuenta con nuestra exclusiva mezcla de aceites para proporcionarte un suplemento Omega-3 perfectamente equilibrado.",
+            "image":"https://www.foreverecom.lat/storage/media/uploaded/product_images/ARG/376/just_ecomm/Arctic%20Sea.png",
+            "precio":8190
         }
     ]
 
