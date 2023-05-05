@@ -3,6 +3,6 @@ const productHandler = require('./handlers/productHandler.js');
 const router = Router();
 router.get('/productos',productHandler)
 router.get('/',(req,res)=>{
-    res.send("Hola soy el Server")
+    res.send("Servidor ok")
 })
 module.exports =   router;
