@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon ./servidor/index.js"
+    "start": "node ./servidor/index.js",
+    "dev": "nodemon ./servidor/index.js"
+
   },
   "author": "",
   "license": "ISC",
