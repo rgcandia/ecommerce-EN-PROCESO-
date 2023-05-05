@@ -1,4 +1,4 @@
-const db = require('../../db.json') 
+const db = require('../app');
 // assert { type: "json" }
 const  getProducts =  ()=>{
     const {items} =  db;
