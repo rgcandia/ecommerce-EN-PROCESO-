@@ -1,7 +1,11 @@
 .nav{
+    display: flex;
     height: 10%;
     border-bottom: 2px solid rgb(0, 0, 0); 
-
+    min-height: 60px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
 }
 .nav h1 {
          

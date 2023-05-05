@@ -1,0 +1,10 @@
+.buttons{
+ display: block;
+ position: absolute;
+ right: 0;
+ margin-right: 10px; 
+}
+.buttons img {
+  width: 40px;
+  height: 40px;
+}
