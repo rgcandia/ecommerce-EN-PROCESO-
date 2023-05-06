@@ -6,7 +6,7 @@ const View = ()=>{
     return(<div className={style.view}>
        
         {dataBase.items&&dataBase.items.map(e=>{
-            return <Card elemento={e}/>
+            return <Card key={e.id} elemento={e}/>
         })}
     </div>)
 }

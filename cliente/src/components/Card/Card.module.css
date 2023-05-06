@@ -10,6 +10,7 @@
     height: 300px;
     margin: 10px;
     font-family: "Times New Roman";
+    cursor: pointer;
   }
   
   .Card img {
@@ -32,4 +33,7 @@
   
   .Card:hover {
     transform: scale(0.9); /* Achica la card al 90% de su tamaño original */
+  }
+  .Card:active{
+    transform: scale(1); 
   }
